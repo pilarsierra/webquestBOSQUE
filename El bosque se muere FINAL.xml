@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="gen/cg_content.xsl"?>
+
+<courseGenie>
+
+<metadata>
+	<lom>
+		<general>
+			<title>
+				<string>El Bosque se muere.docx</string>
+				<language>es</language>
+			</title>
+		</general>
+	</lom>
+	<misc>
+		<item>
+			<key>Author</key>
+			<value>aulas</value>
+		</item>
+		<item>
+			<key>Organisation</key>
+			<value>Universidad Pablo de Olavide</value>
+		</item>
+		<item>
+			<key>creator</key>
+			<value>Wimba Create</value>
+		</item>
+	</misc>
+</metadata>
+<settings>
+	<pageroot>page</pageroot>
+	<sectionmode>both</sectionmode>
+	<exportmode>normal</exportmode>
+	<assessmentmode>none</assessmentmode>
+	<generateindex>True</generateindex>
+	<showtoc>True</showtoc>
+	<tocwidth>180</tocwidth>
+	<shownavigation>True</shownavigation>
+	<footer>Built With Wimba Create</footer>
+	<singlepage>False</singlepage>
+	<hyperlinksmain>True</hyperlinksmain>
+	<popupsmain>True</popupsmain>
+	<idstring>CG2018212062</idstring>
+	<scorm-questionmode>selftest</scorm-questionmode>
+	<scorm-masteryscore>0</scorm-masteryscore>
+	<cgbuild>2.6.0 Build 20120425</cgbuild>
+	<schemefolder>c:/program files (x86)/wimbacreate/resources/es.lproj/schemes/Desert</schemefolder>
+</settings>
+
+<newpage>
+<pagetitle>EL BOSQUE SE MUERE </pagetitle>
+<section/>
+<para/>
+
+<heading>UNA MAÑANA CUALQUIERA</heading>
+<para/>
+
+<para  align="left">Sois una pareja de adolescentes de un pequeño pueblo. Día tras día veis que el bosque se muere: los animales están desapareciendo, se ve humo negro saliendo del bosque...</para>
+<para  align="left"><u>Prota A</u>: Friend, tenemos que averiguar que está pasando, quién se está cargando el bosque.</para>
+<para  align="left"><u>Prota B</u>: ¿Nos saltamos mates a 3º hora y nos vamos para allá?</para>
+<para  align="left"><u>Prota A</u>: ¡Hecho!</para>
+<para/>
+
+<para  align="left">Montados en vuestras bicis vais hacia el bosque y el paisaje que observáis es desolador. </para>
+<para/>
+
+<para  align="center"><image alt="C:\Users\aulas\Downloads\bosque 2.jpg" width="321" height="231" class="normal">pic001.jpg</image></para>
+<para  align="center">https://sites.google.com/site/ambientesanoconcienciaverde/referencias</para>
+<para/>
+
+<para  align="left"><u>Prota A</u>: ¡Cáspita! ¿Te has fijado en  los árboles? ¡Casi han perdido las hojas y encimas las pocas que tienen han perdido su color!</para>
+<para  align="left"><u>Prota B</u>: ¡¡Mira, mira el río!! Qué cantidad de peces muertos. </para>
+<para  align="left"><u>Prota A</u>: ¿No te suena esto a algo que dimos en Química? ¿Cómo se llamaba? </para>
+<para/>
+
+
+<question type="multichoice1">
+	<title>¿Qué crees que le está pasando al bosque?</title>
+	<text>Elige una de las opciones siguientes.</text>
+	<answer>Consecuencias de una sequía en la región.</answer>
+	<answer>Consecuencias del cambio climático.</answer>
+	<answer evaluation="correct">Consecuencias de la acidificación del terreno y el agua por contaminación química.</answer>
+	<answer>Yo el bosque lo veo bien.</answer>
+	<feedback evaluation="correct"><para>¡Bien pensado! Sigue leyendo y pasa a la Escena 1.</para><para></para></feedback>
+	<feedback evaluation="incorrect">Prueba otra vez, no lo tienes muy claro todavía.</feedback>
+</question>
+
+<para/>
+
+<para  align="left">Nuestros protagonistas ven a lo lejos lo que parece una chimenea echando humo y deciden adentrarse en el bosque y comenzar su investigación.</para>
+<para  align="center"><image alt="C:\Users\aulas\Downloads\fabrica bosque (1).jpg" width="424" height="213" class="normal">pic002.jpg</image></para>
+<para  align="center">https://es.dreamstime.com/foto-de-archivo-paisaje-industrial-image42812141</para>
+<para/>
+
+<para  align="left"></para>
+</newpage>
+
+<newpage>
+<pagetitle>Escena 1: ¿QUÉ ESTÁ PASANDO?</pagetitle>
+<para/>
+
+<para  align="left">El humo procede de una chimenea de una extraña fábrica que se encuentra escondida en el bosque.  Sin tiempo de averiguar nada más...  </para>
+<para/>
+
+<para  align="left">          <image alt="C:\Users\aulas\Downloads\golpe.jpg" width="229" height="219" class="normal">pic003.jpg</image> ... alguien os golpea por detrás y caéis sin sentido.</para>
+<para  align="left">                             http://mzayat.com/single/189072.html</para>
+<para/>
+
+<para/>
+
+<para  align="left">Despertáis en un sucio almacén químico abandonado. La puerta, de madera y con unas grandes bisagras de hierro, está atrancada. Miráis a vuestro alrededor y descubrís los objetos siguientes: </para>
+
+<list type="2" level="1" start="1">
+	<item level="1">Un viejo cubo de aluminio</item>
+	<item level="1">6 latas de coca cola de 33 cl</item>
+	<item level="1">Un bote con ácido sulfúrico del 24% de riqueza en peso y densidad 1,17 g/ml</item>
+	<item level="1">Un bote de lejía (disolución de hipoclorito de sodio)</item>
+	<item level="1">El palo de una escoba </item>
+</list>
+
+<para/>
+
+<para  align="left"><u>Prota B</u>: Con algunos de estos productos, ¿no podríamos cargarnos las bisagras? Yo he oído que con la coca cola se desatascan hasta las tuberías.</para>
+<para  align="left"><u>Prota A</u>: ¡Qué burradas dices! Acuérdate del  tema de redox que estudiamos hace un par de semanas.</para>
+<para/>
+
+
+<question type="multichoice1">
+	<title>¿Qué ácido utilizamos?</title>
+	<text>Elige con juicio...</text>
+	<answer evaluation="correct">Ácido Sulfúrico</answer>
+	<answer>Lejía (disolución de hipoclorito de sodio)</answer>
+	<feedback evaluation="correct"><para>¡Fantástico! Aquí tienes la reacción redox: </para><para>Fe + H<sub>2</sub>SO<sub>4</sub> = FeSO<sub>4</sub> + H<sub>2</sub></para></feedback>
+	<feedback evaluation="incorrect">Inténtalo otra vez...</feedback>
+</question>
+
+<para/>
+
+<para  align="left">La puerta tiene dos bisagras con un peso de 60g cada una. Tendréis que calcular:</para>
+
+<list type="3" level="1" start="1">
+	<item level="1">La concentración molar del bote de ácido.</item>
+	<item level="1">El volumen de esa disolución que tiene que echar a cada bisagra para disolverla completamente. </item>
+</list>
+
+<para/>
+
+
+<question type="gapfill2">
+	<title>Escribid los resultados de vuestros cálculos.</title>
+	<text>Los decimales deben ir separados con coma, no uséis el punto.</text><answer>Concentración = <gap>2,87 </gap>M  y Volumen =<gap> 0,745</gap> ml.</answer>
+	<feedback evaluation="correct">¡Perfecto! Echad la disolución sobre las bisagras.</feedback>
+	<feedback evaluation="incorrect">A este paso vais a tardar en salir del almacén... repasad los cálculos.</feedback>
+</question>
+
+<para/>
+
+<para  align="left">Después de beberos un par de coca colas, usáis las latas para medir la cantidad de disolución y la vertéis sobre cada bisagra...</para>
+<para/>
+
+<para  align="left">¡Buen trabajo! ¡Las bisagras se han disuelto por arte de química! Con una patada nuestros protagonistas echan abajo la puerta y salen al exterior. </para>
+<para/>
+
+<para  align="left"></para>
+</newpage>
+
+<newpage>
+<pagetitle>Escena 2: ¿DÓNDE ESTAMOS?</pagetitle>
+<para/>
+
+<para  align="left">Al salir del almacén veis que estáis dentro de una extraña fábrica ruinosa y escondida que parece ser el origen de la muerte del bosque. </para>
+<para/>
+
+<para  align="left">Observando a vuestro alrededor descubrís que: </para>
+
+<list type="2" level="1" start="1">
+	<item level="1">De una chimenea muy alta sale humo oscuro. </item>
+	<item level="1">El ambiente presenta una niebla espesa y amarilla, os cuesta respirarla. </item>
+	<item level="1">De la fábrica salen un montón de cables eléctricos. </item>
+	<item level="1">Hay un camión cargado con un material sólido y negro. </item>
+</list>
+
+<para/>
+
+<para  align="center"><image alt="C:\Users\aulas\Downloads\camionazo.JPG" width="389" height="251" class="normal">pic004.jpg</image></para>
+<para  align="center">http://miatransporte.blogspot.com/</para>
+<para/>
+
+<para  align="left">¿Qué industria está contaminando el bosque? </para>
+<para/>
+
+
+<question type="gapfill2">
+	<title>¿Qué industria está contaminando el bosque?</title>
+	<text>Escribid las palabras todas en minúsculas pero ojo con los acentos, deben aparecer correctamente. </text><answer>Es una central <gap>eléctrica </gap>de <gap>carbón</gap>.</answer>
+	<feedback evaluation="correct">¡Fantástico! Sois unos excelentes investigadores. </feedback>
+	<feedback evaluation="incorrect">Mmmm... revisad las pistas, algo se os ha pasado.</feedback>
+</question>
+
+<para/>
+
+<para  align="left">Decidís arriesgaros y entrar para averiguar más cosas sobre esta industria. </para>
+<para  align="left"></para>
+</newpage>
+
+<newpage>
+<pagetitle>Escena 3: LA CENTRAL</pagetitle>
+<para/>
+
+<para  align="left">Al entrar, avanzáis silenciosamente por un oscuro pasillo. Al  fondo hay una puerta que os conduce a una antigua cabina de control automatizada. </para>
+<para  align="center"><image alt="C:\Users\aulas\Downloads\centro control.jpg" width="360" height="240" class="normal">pic005.jpg</image></para>
+<para  align="center">http://www.elmundo.es/album/cronica/2017/05/30/592ada4346163f19628b45da_7.html</para>
+<para/>
+
+<para  align="left">Colgado en una pared, en un tablón de corcho, cogéis lo que parece un informe de la central.</para>
+<para  align="left"><u>Prota A:</u> ¡Se están haciendo de oro, chico! El año pasado quemaron 3,1.10<sup>7</sup> kg de carbón y produjeron más de 8.000 GWh. </para>
+<para  align="left"><u>Prota B</u>: El carbón que usan no es muy bueno, dice aquí que tiene 2,4% de azufre en masa. </para>
+<para  align="left"><u>Prota A</u>: ¡El más barato seguro! Lo que le pase al bosque les importa lo que a mí lo último de Luis Fonsi.</para>
+<para  align="left"><u>Prota B</u>: Oye, ¿cuánto volumen de SO2 crees que habrán emitido el año pasado?</para>
+<para  align="left"><u>Prota A</u>: ¿En condiciones normales?</para>
+<para/>
+
+
+<question type="gapfill2">
+	<title>Calcula el volumen de SO2 que ha emitido la central en condiciones normales. </title>
+	<text>Los decimales deben ir separados con coma, no uséis el punto. Expresad la solución con un único decimal.</text><answer>La central emitió el año pasado <gap>2,4</gap> x 1000 litos de SO2.</answer>
+	<feedback evaluation="correct">¡Perfecto!</feedback>
+	<feedback evaluation="incorrect">Repasa los cálculos, algo salió mal.</feedback>
+</question>
+
+<para/>
+
+<para  align="left">A penas habéis terminado los cálculos, cuando os sorprende un tío muy feo que los encañona con un par de pistolas.</para>
+<para/>
+
+<para  align="center"><image alt="" width="567" height="319" class="normal">pic006.png</image></para>
+<para  align="center">http://www.canaltcm.com/2012/08/28/harvey-keitel-y-reservoir-dogs/</para>
+<para  align="left"> </para>
+<para  align="left"></para>
+</newpage>
+
+<newpage>
+<pagetitle>Escena 4: CARA A CARA</pagetitle>
+<para/>
+
+<para  align="left">Estáis delante del concejal de medio ambiente del pueblo. ¡Quién iba a pensar que precisamente él montaría una central clandestina y destruiría el bosque! </para>
+<para/>
+
+<para  align="left"><u>El Malo</u>: Vaya parece que mis dos gemelas de acero no os impresionan. Contadme, ¿qué habéis averiguado hasta ahora?</para>
+<para/>
+
+
+<question type="multichoice1">
+	<title>¿Qué actividad pensáis que estamos haciendo aquí?</title>
+	<text></text>
+	<answer>Fabricar amoníaco.</answer>
+	<answer>Quemar residuos.</answer>
+	<answer evaluation="correct">Producir electricidad.</answer>
+	<answer>Fabricar ácido sulfúrico.</answer>
+	<feedback evaluation="correct">Veo que sois unos listillos...</feedback>
+	<feedback evaluation="incorrect">Os habéis saltado la clase de Química para estar aquí hoy, ¿no?</feedback>
+</question>
+
+<para/>
+
+<para/>
+
+
+<question type="multichoice1">
+	<title>¿Qué combustible creéis que estamos utilizando para producir energía?</title>
+	<text></text>
+	<answer>Gas.</answer>
+	<answer>Petróleo.</answer>
+	<answer evaluation="correct">Carbón.</answer>
+	<answer>Biocombustible.</answer>
+	<feedback evaluation="correct">Veo que sois unos listillos...</feedback>
+	<feedback evaluation="incorrect">Os habéis saltado la clase de Química para estar aquí hoy, ¿no?</feedback>
+</question>
+
+<para/>
+
+<para/>
+
+
+<question type="multichoice1">
+	<title>¿Qué contaminante creéis que estamos emitiendo a la atmósfera?</title>
+	<text></text>
+	<answer evaluation="correct">Dióxido de Azufre.</answer>
+	<answer>Óxidos de Nitrógeno.</answer>
+	<answer>Dióxido de Carbono.</answer>
+	<answer>Ozono.</answer>
+	<feedback evaluation="correct">Veo que sois unos listillos...</feedback>
+	<feedback evaluation="incorrect">Os habéis saltado la clase de Química para estar aquí hoy, ¿no?</feedback>
+</question>
+
+<para/>
+
+<para/>
+
+
+<question type="multichoice1">
+	<title><para>¿Qué efectos tiene el SO2 que contamina la atmósfera sobre el agua de lluvia?</para><para></para></title>
+	<text></text>
+	<answer>La neutraliza</answer>
+	<answer>No tiene efecto.</answer>
+	<answer>La cambia de color.</answer>
+	<answer evaluation="correct">La acidifica.</answer>
+	<feedback evaluation="correct">Veo que sois unos listillos...</feedback>
+	<feedback evaluation="incorrect">Os habéis saltado la clase de Química para estar aquí hoy, ¿no?</feedback>
+</question>
+
+<para/>
+
+<para/>
+
+
+<question type="multichoice1">
+	<title><para>¿Cómo se le llama a ese fenómeno?</para><para></para></title>
+	<text></text>
+	<answer>Calentamiento global.</answer>
+	<answer evaluation="correct">Lluvia ácida.</answer>
+	<answer>Lluvia básica.</answer>
+	<answer>Deterioro de la capa de ozono.</answer>
+	<feedback evaluation="correct">Veo que sois unos listillos...</feedback>
+	<feedback evaluation="incorrect">Os habéis saltado la clase de Química para estar aquí hoy, ¿no?</feedback>
+</question>
+
+<para/>
+
+<para/>
+
+<para  align="left">Lo que el concejal no sabe es que habéis llamado a la policía con un móvil escondido en el bolsillo y ésta lo ha escuchado todo. </para>
+<para  align="left"><u>Prota B</u>: Shuuu, escucha... se oyen las sirenas de la policía en el exterior. </para>
+<para  align="left"><u>El Malo</u>: ¡Me la habéis jugado!</para>
+<para/>
+
+<para  align="center"><image alt="Resultado de imagen de coche de policia dibujo" width="301" height="168" class="normal">pic007.jpg</image></para>
+<para  align="center">https://es.pngtree.com/freepng/cartoon-police-car_969145.html</para>
+<para/>
+
+<para  align="left"></para>
+</newpage>
+
+<newpage>
+<pagetitle>Escena 5: ANTE EL JUEZ</pagetitle>
+<para  align="left"> </para>
+<para  align="left">El juez de instrucción necesita vuestra ayuda, sois los principales testigo del delito medio ambiental que habéis destapado con vuestra astucia y determinación. </para>
+<para  align="left">Os pide un último favor, que elaboréis un informe detallado de todas vuestras pesquisas donde expliquéis todo lo que habéis aprendido en esta aventura: </para>
+
+<list type="3" level="1" start="1">
+	<item level="1">¿Cómo conseguisteis escapar del almacén donde os encerraron? Explica la reacción química y los cálculos realizados. </item>
+	<item level="1">¿Qué actividad industrial se llevaba a cabo y qué contaminante estaba vertiendo a la atmósfera? ¿En qué proceso químico se originaban? ¿Existe algún otro riesgo medioambiental asociado a esta actividad? ¿Qué volumen de contaminante emitieron el año pasado? ¿Cómo lo habéis calculado? </item>
+	<item level="1">¿Qué efectos tiene este contaminante atmosférico sobre el pH del agua de lluvia? ¿Cómo se le llama a ese fenómeno? ¿Existen otras fuentes contaminantes que la generan </item>
+	<item level="1">¿Qué efectos tiene este fenómeno sobre el medio ambiente? ¿y sobre la salud humana?</item>
+</list>
+
+<para/>
+
+<para/>
+
+<para  align="left">El formato del informe es libre, pero si resolvéis un último problema, el ayudante del fiscal (profesor) os pasará bajo mano el formato que utiliza la policía para los informes judiciales. Con ese formato os ganaréis al juez seguro. </para>
+<para/>
+
+<para  align="left"></para>
+</newpage>
+
+<newpage>
+<pagetitle>Escena extra: GANANDO EL FORMATO DEL INFORME</pagetitle>
+<para/>
+
+<para  align="left">El juez está investigando otro caso de lo trae de cabeza. Necesitan recuperar las cintas de las grabadoras que había en la cabina de tripulación de un avión de un avión que calló al mar hace 6 semanas. Las cintas están recubiertas de Mg(OH)<sub>2</sub>, formado por reacción del magnesio usado en el riel de la cinta con el agua de mar. Para rescatar las grabaciones tenéis que eliminar el Mg(OH)<sub>2 </sub>con una disolución de ácido nítrico. ¿Qué volumen de ácido nítrico 0,1 M se necesita por cada gramos de Mg(OH)<sub>2</sub>?</para>
+<para/>
+
+<para  align="left">Dadle vuestra respuesta al ayudante del fiscal (profesor) y os entregará el ansiado formato.</para>
+<para/>
+
+<para/>
+
+</newpage>
+
+<newpage>
+<pagetitle>TAREA</pagetitle>
+<section/>
+<para  align="left">Esta WebQuest se ha diseñado como una Escape Room en la que, escena a escena, debéis ir  resolviendo, agrupados por parejas, los problemas y preguntas que se plantean durante la sesión. Como trabajo final elaboraréis un informe donde se resuma lo hecho en clase y se investigue el problema medioambiental sobre el que versa esta actividad. </para>
+<para/>
+
+<para/>
+
+</newpage>
+
+<newpage>
+<pagetitle>RECURSOS</pagetitle>
+<section/>
+<para  align="left">En este apartado tenéis algunos recursos que os pueden ayudar a la hora de elaborar el informe final que tendréis que entregar para la nota final de esta tarea:</para>
+<para/>
+
+<para  align="left"><hyperlink><name>https://www.youtube.com/watch?v=Apg_aEwvzGM</name><url>https://www.youtube.com/watch?v=Apg_aEwvzGM</url></hyperlink></para>
+<para/>
+
+<para  align="left"><hyperlink><name>https://energiaeficiente.wordpress.com/2009/10/23/como-funcionan-las-centrales-termicas/</name><url>https://energiaeficiente.wordpress.com/2009/10/23/como-funcionan-las-centrales-termicas/</url></hyperlink></para>
+<para  align="left"><hyperlink><name>https://elprofedenaturales.wordpress.com/2009/12/05/la-lluvia-acida/</name><url>https://elprofedenaturales.wordpress.com/2009/12/05/la-lluvia-acida/</url></hyperlink></para>
+<para/>
+
+<para/>
+
+<para  align="left">En los siguientes enlaces podrás jugar con una simulación donde podrás observar lo que ocurre cuando trabajas con ácidos y bases fuertes o con ácido y bases débiles y además tienes un pequeño experimento que podrás realizar en casa y observar los efectos de la lluvia ácida. </para>
+<para/>
+
+<para  align="left"><hyperlink><name>https://www.youtube.com/watch?v=1uDn44jzPVs</name><url>https://www.youtube.com/watch?v=1uDn44jzPVs</url></hyperlink></para>
+<para  align="left"><hyperlink><name>https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions_es.html</name><url>https://phet.colorado.edu/sims/html/acid-base-solutions/latest/acid-base-solutions_es.html</url></hyperlink> </para>
+<para/>
+
+<para  align="left"><hyperlink><name>https://www.youtube.com/watch?v=M-sYraKp8Fg</name><url>https://www.youtube.com/watch?v=M-sYraKp8Fg</url></hyperlink></para>
+<para/>
+
+<para/>
+
+</newpage>
+
+<newpage>
+<pagetitle>EVALUACIÓN</pagetitle>
+<section/>
+<para/>
+
+<para  align="left">A continuación se presenta los criterios de evaluación que se aplicarán para elaborar la nota final de esta tarea. </para>
+<para/>
+
+<para  align="left"><image alt="" width="643" height="916" class="normal">pic008.png</image></para>
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+<para/>
+
+</newpage>
+
+<newpage>
+<pagetitle>CONCLUSIÓN</pagetitle>
+<section/>
+<para  align="left">Con esta WebQuest se pretende proporcionar a los alumnos la capacidad de trabajar en grupo, la oportunidad de resumir la experiencia con la redacción de un informe de síntesis, animar a la reflexión sobre el tema medioambiental del que se está hablando. Del mismo modo se pretende que los alumnos puedan hacer memoria y repasar los contenido dados en clase sobre las unidades "Equilibrios Ácido-Base" y  "Reacciones Redox" ya que les ayudará a repasar de cara al examen de selectividad. </para>
+<para/>
+
+<para/>
+
+</newpage>
+
+<newpage>
+<pagetitle>CRÉDITOS</pagetitle>
+<section/>
+<para/>
+
+<para  align="left">Esta WebQuest ha sido realizada por:</para>
+<para/>
+
+<para  align="left">Experta Medio Ambiente y Química:  </para>
+<para  align="left">Elena María Bersabé Rodríguez</para>
+<para/>
+
+<para  align="left">Criminóloga y Química:  </para>
+<para  align="left">Pilar Sierra Labarta</para>
+<para/>
+
+<para/>
+
+<para  align="left"><b><u>BIBLIOGRAFÍA</u></b><b>:</b></para>
+<para  align="left"><hyperlink><name>https://energiaeficiente.wordpress.com/2009/10/23/como-funcionan-las-centrales-termicas/</name><url>https://energiaeficiente.wordpress.com/2009/10/23/como-funcionan-las-centrales-termicas/</url></hyperlink> </para>
+<para  align="left"><hyperlink><name>https://elprofedenaturales.wordpress.com/2009/12/05/la-lluvia-acida/</name><url>https://elprofedenaturales.wordpress.com/2009/12/05/la-lluvia-acida/</url></hyperlink></para>
+<para  align="left">Imágenes de google </para>
+<para  align="left">Vídeos de youtube</para>
+<para  align="left">Ejercicios tomados del libro "Química 2" Bachillerato Editorial SM</para>
+<para/>
+
+
+
+
+
+
+</newpage>
+
+
+</courseGenie>
+
